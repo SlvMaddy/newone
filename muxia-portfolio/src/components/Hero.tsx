@@ -76,7 +76,7 @@ export default function Hero({ t, lang }: HeroProps) {
               muted
               playsInline
               className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-700"
-              src="muxia-portfolio/images/hero.mp4"
+              src="/images/hero.mp4"
             />
 
             <div className="absolute bottom-8 left-8 z-20">
