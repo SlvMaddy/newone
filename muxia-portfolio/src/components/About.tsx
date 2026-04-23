@@ -33,7 +33,7 @@ export default function About({ t }: AboutProps) {
              className="relative aspect-video lg:aspect-[21/9] w-full mb-12 overflow-hidden border border-white/10"
           >
             <img 
-              src="images/GFa00bVbwAAVGN2.jpg" 
+              src="/images/GFa00bVbwAAVGN2.jpg" 
               alt="Muxia" 
               className="w-full h-full object-contain transition-all duration-1000"
             />
